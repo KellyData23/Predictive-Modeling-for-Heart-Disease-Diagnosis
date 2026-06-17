@@ -15,5 +15,5 @@ This project aims to use data analysis techniques to develop a dependable predic
 • Consistency between the project and the health care goal
 
 ## Dataset Used
-- <a href"https://www.kaggle.com/datasets/moazeldsokyx/heart-disease">Heart disease prediction</a
+- <a href"https://www.kaggle.com/datasets/moazeldsokyx/heart-disease"> Heart disease prediction</a
 
