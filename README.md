@@ -10,16 +10,9 @@ This project aims to use data analysis techniques to develop a dependable predic
 •	To build a data product to access users’ cardiovascular risk based on the optimal machine learning algorithm built
 
 ## Problem Statement
-1 Current state of heart disease
-·	Heart disease remains a major global health concern despite advances in medical science (Abdollahi & Nouri-Moghaddam, 2022). 
-·	We aim to get an awareness of the current situation, including the prevalence, risk factors, and challenges related to early identification that are specific to this population by using the "Heart Disease Dataset" and focusing on the subset of 14 attributes.
-
-2 Need for Predictive Modelling
-·	The set of 14 variables contains complicated patterns that conventional methods of diagnosing heart disease may not be able to manage, predictive modelling is required.
-·	A data-driven approach is required to uncover hidden relationships and produce precise prediction models appropriate for this group. This will help with early detection that is more successful and accurate.
-
-3 Consistency between the project and the health care goal
-·	This study has contributed to broader health care goal by improving the patient's curative effect, reduced costs, and encouraging preventive care. 
+• Current state of heart disease
+• Need for Predictive Modelling
+• Consistency between the project and the health care goal
 
 ## Dataset Used
 https://www.kaggle.com/datasets/moazeldsokyx/heart-disease (Heart disease prediction)
