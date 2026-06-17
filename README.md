@@ -23,5 +23,13 @@ Early interventions can reduce the need for expensive treatment and hospitalizat
 - [Raw Training Data](./train.csv)
 - [Validation Dataset](./test.csv)
 
+## Process
+- Data Collection
+- Data Preprocessing
+- Model Selection
+- Model Training
+- Model Evaluation
+- Model Deployment 
+
 
 
